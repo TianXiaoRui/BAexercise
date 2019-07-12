@@ -1,0 +1,3 @@
+/home/tr/Desktop/练习17-g2o顶点代码框架/练习17-g2o顶点代码框架/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/tr/Desktop/练习17-g2o顶点代码框架/练习17-g2o顶点代码框架/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/tr/Desktop/练习17-g2o顶点代码框架/练习17-g2o顶点代码框架/cmake-build-debug/CMakeFiles/BA.dir
